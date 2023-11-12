@@ -1,4 +1,4 @@
-### Hi there 👋, I'm liuyun. <br> I come from China and I'm a 4 years of experience in Java development.
+### Hi there 👋, I'm Liu Yun. <br> I come from China and I'm a 4 years of experience in Java development.
 
 
 
