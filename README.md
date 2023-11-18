@@ -4,7 +4,7 @@ For whatever reason that brought you here, welcome to my github profile. I hope 
 <br/>
 <br/>
 I come from China and I'm a 4 years of experience in Java development.
-I strive to create memorable experience on the digital canvas. Front-end addicted, fullstack capable, with a strong emphasis on Typescript.
+I thrive for standardization and elegance in my code, and I'm always eager to learn.
 <br/>
 <br/>
 You can <a href="https://www.buymeacoffee.com/liuyun112766" target="-_blank">buy me a coffee</a> if you feel that my content or code was helpful to you.
