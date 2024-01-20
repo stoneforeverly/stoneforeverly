@@ -3,8 +3,9 @@
 For whatever reason that brought you here, welcome to my github profile. I hope you're having a decent day.
 <br/>
 <br/>
-I come from China and I'm a 4 years of experience in Java development.
-I thrive for standardization and elegance in my code, and I'm always eager to learn.
+I'm a Java developer with 5 years of hands-on experience.
+My professional journey began as an IT Technical Maintenance specialist, where I spent 7 years working closely with diverse clients. This exposure has honed my customer relations skills, making me adept at understanding and meeting client needs.<br/>
+In addition to my technical background, I have successfully led a small team to deliver features within tight timelines. This experience has not only polished my requirements analysis and design skills but has also instilled in me a commitment to standardization and code elegance. I am enthusiastic about each project I undertake, always aiming for excellence in execution.
 <br/>
 <br/>
 You can <a href="https://www.buymeacoffee.com/liuyun112766" target="-_blank">buy me a coffee</a> if you feel that my content or code was helpful to you.
