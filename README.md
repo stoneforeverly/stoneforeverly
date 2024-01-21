@@ -30,7 +30,7 @@ You can <a href="https://www.buymeacoffee.com/liuyun112766" target="-_blank">buy
 <br/>
 
 
-### [Resume](https://drive.google.com/file/d/18noWiw-gGmQQ_2Qgnus-07BBjg5xg4Ab/view?usp=sharing)
+### [Resume](https://drive.google.com/file/d/106Y9W8iSmTr-NYi2-4WXe7UGtCrbS5lY/view?usp=sharing)
 
 
 <!--
